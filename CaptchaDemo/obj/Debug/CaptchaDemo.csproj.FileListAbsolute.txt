@@ -1,4 +1,3 @@
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\obj\Debug\CaptchaDemo.csprojAssemblyReference.cache
 C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\obj\Debug\CaptchaDemo.csproj.CoreCompileInputs.cache
 C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\bin\Debug\CaptchaDemo.exe.config
 C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\bin\Debug\CaptchaDemo.exe

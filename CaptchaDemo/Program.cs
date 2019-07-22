@@ -5,7 +5,8 @@ using System.Linq;
 
 namespace CaptchaDemo
 {
-    class Login
+    class Captcha
+
     {
         static void Main(string[] args)
         {
@@ -32,7 +33,7 @@ namespace CaptchaDemo
             string Sum = (a+b).ToString();
             Captcha.SendKeys(Sum);
             driver.FindElement(By.Id("lytA_ctl23_btnSubmit")).Click();
-            //Submit.Click();
+            
 
 
         }
