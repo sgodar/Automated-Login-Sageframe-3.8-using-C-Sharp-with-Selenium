@@ -1,9 +1,0 @@
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\obj\Debug\CaptchaDemo.csproj.CoreCompileInputs.cache
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\bin\Debug\CaptchaDemo.exe.config
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\bin\Debug\CaptchaDemo.exe
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\bin\Debug\CaptchaDemo.pdb
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\bin\Debug\WebDriver.dll
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\bin\Debug\WebDriver.xml
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\obj\Debug\CaptchaDemo.csproj.CopyComplete
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\obj\Debug\CaptchaDemo.exe
-C:\Users\Sunil\source\repos\CaptchaDemo\CaptchaDemo\obj\Debug\CaptchaDemo.pdb
