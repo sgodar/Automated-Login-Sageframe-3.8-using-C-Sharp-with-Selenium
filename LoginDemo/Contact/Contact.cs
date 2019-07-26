@@ -1,10 +1,7 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LoginDemo.Contact
 {
@@ -14,7 +11,6 @@ namespace LoginDemo.Contact
         public Contact()
         {
             driver = new FirefoxDriver();
-
         }
 
         public void Contactus()
@@ -55,7 +51,7 @@ namespace LoginDemo.Contact
             captchasend.Clear();
             captchasend.SendKeys(d);
             Submit.Click();
-           // driver.Manage().Cookies.DeleteAllCookies();
+            // driver.Manage().Cookies.DeleteAllCookies();
 
         }
     }

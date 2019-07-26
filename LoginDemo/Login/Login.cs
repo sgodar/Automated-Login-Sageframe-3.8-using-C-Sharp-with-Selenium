@@ -24,6 +24,7 @@ namespace LoginDemo.Login
             var Password = driver.FindElement(By.Id("ctl16_Password"));
             var SignIn = driver.FindElement(By.Id("ctl16_LoginButton"));
 
+
                 UserName.Click();
                 UserName.Clear();
                 UserName.SendKeys("Superuser");
